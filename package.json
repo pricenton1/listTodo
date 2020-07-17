@@ -1,5 +1,5 @@
 {
-  "name": "my_app",
+  "name": "my_app2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,5 +30,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "resolutions": {
+    "ajv": "6.8.1"
+  },
+  "proxy" : "http://localhost:8000"
 }

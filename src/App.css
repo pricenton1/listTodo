@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.p1 {
+  color: blue;
+}
+
+.p2{
+  color: red;
+}
+
+/* .App{
+  background-color: royalblue;
+} */
